@@ -1,0 +1,28 @@
+{
+  "name": "cengburada",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bootstrap": "^5.3.5",
+    "chart.js": "^4.4.8",
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.13.2",
+    "next": "15.2.4",
+    "react": "^19.0.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.4"
+  }
+}
